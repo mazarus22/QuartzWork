@@ -4,4 +4,4 @@ publish: "true"
 ---
 
 This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+See the [documentation](https://www.youtube.com/watch?v=UlJb-1ADbok) for how to get started.

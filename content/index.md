@@ -1,6 +1,7 @@
 ---
-title: Site under Construction
+title: Welcome to Quartz
+publish: "true"
 ---
 
-This is a blank Site that will be developed to accompany a game of Kids on Bikes.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a blank Quartz installation made by a complete nerd.
+See the [documentation](https://www.youtube.com/watch?v=UlJb-1ADbok) for how to get started.

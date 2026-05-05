@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
-publish: "true"
+title: Site under Construction
 ---
 
-This is a blank Quartz installation made by a complete nerd.
-See the [documentation](https://www.youtube.com/watch?v=UlJb-1ADbok) for how to get started.
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.

@@ -1,6 +1,6 @@
 ---
 title: Example Title
-draft: false
+draft: true
 "tags:": "- example-tag"
 ---
 There's cool story stuff here
